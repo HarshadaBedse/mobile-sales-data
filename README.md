@@ -26,4 +26,4 @@ Purpose
 Built for business intelligence, sales analysis, and data visualization practice, this dashboard demonstrates how interactive reporting can uncover trends, monitor performance, and support strategic decisions.
 
 
-https://github.com/HarshadaBedse/mobile-sales-data/blob/main/mobile%20sales%20data.png?raw=true
+1[alt text](https://github.com/HarshadaBedse/mobile-sales-data/blob/main/mobile%20sales%20data.png?raw=true)
